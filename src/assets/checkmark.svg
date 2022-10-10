@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 18.45 18.45">
+  <defs>
+    <style>
+      .cls-1 {
+        filter: url(#drop-shadow-1);
+      }
+
+      .cls-2 {
+        fill: #3685ed;
+      }
+    </style>
+    <filter id="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="104.81"/>
+      <feGaussianBlur result="blur" stdDeviation="87.34"/>
+      <feFlood flood-color="#1d357c" flood-opacity=".2"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g class="cls-1">
+      <g id="BtDNK5.tif">
+        <g>
+          <path class="cls-2" d="M18.45,9.23c0,5.09-4.15,9.22-9.23,9.22C4.13,18.44,0,14.3,0,9.22,0,4.13,4.15,0,9.23,0c5.09,0,9.22,4.15,9.22,9.23Zm-1.5,0c0-4.26-3.46-7.72-7.72-7.73-4.25,0-7.72,3.45-7.73,7.72-.02,4.25,3.48,7.75,7.73,7.74,4.26,0,7.72-3.47,7.72-7.73Z"/>
+          <path class="cls-2" d="M8,10.69c.41-.38,.8-.75,1.19-1.13,1.18-1.12,2.35-2.23,3.53-3.35,.32-.3,.71-.34,1.01-.11,.39,.29,.41,.82,.04,1.18-.44,.43-.9,.85-1.35,1.28-1.28,1.21-2.56,2.43-3.84,3.64-.42,.4-.82,.39-1.22-.03-.88-.91-1.77-1.82-2.65-2.72-.2-.21-.31-.44-.25-.73,.12-.56,.79-.79,1.21-.4,.3,.27,.57,.57,.85,.86,.49,.5,.97,1,1.48,1.52Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
